@@ -5,9 +5,7 @@ Papers and other items mentioned in my talk
 
 software links:
 
-https://dlsia.readthedocs.io
+dlsia:  https://dlsia.readthedocs.io
 
-https://qlty.readthedocs.io
-
-https://ecospec.readthedocs.io
+qlty:  https://qlty.readthedocs.io
 
