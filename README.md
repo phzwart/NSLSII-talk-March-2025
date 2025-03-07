@@ -9,3 +9,5 @@ dlsia:  https://dlsia.readthedocs.io
 
 qlty:  https://qlty.readthedocs.io
 
+mlexchange: https://github.com/mlexchange/mlex
+
